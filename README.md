@@ -1,6 +1,6 @@
 # TWX PingRequest Extension
 
-Extension developed for Thingworx to test the connectivity between any IP addresss or FQDN.
+Extension developed for Thingworx to test the connectivity with any IP addresss or FQDN.
 
 It will return same cmd output as String.
 
@@ -11,3 +11,5 @@ Steps to use:
 2. Navigate to Ping Request Resource
 3. Search for "PingRequest" service
 4. Enter any IP and Execute
+
+Note: Supports above Thingworx 9.0.0
